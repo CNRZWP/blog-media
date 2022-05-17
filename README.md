@@ -1,2 +1,2 @@
 # blog-media
-used to store media files, such as markdown's images gif, etc
+used to store media files, such as markdown's images gif, etc.
